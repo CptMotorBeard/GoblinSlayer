@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0520fdb169368934e8f75a896281730d, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: c3e946c77969a2542a97ba010e15edac, type: 3}
+  UsedAbility: {fileID: 114792720137212762, guid: 5181fe3138a113946889f81dd7ea5c20,
+    type: 2}
+  Damage: 0
+  Cooldown: 7.5
+  EnergyUsage: 15
+  EnergyRecovery: 0
+  RootedTime: 0.1
+  ChannelAbility: 0
+  MultipartAbility: 0
+  DroppedAbility: 1
+  AtMouse: 1
+  PlayerAnimationTrigger: 
+  Tooltip: 

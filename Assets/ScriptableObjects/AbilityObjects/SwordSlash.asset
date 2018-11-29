@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0520fdb169368934e8f75a896281730d, type: 3}
+  m_Name: SwordSlash
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 0cfed7e97336e4946a18aefc8d0ee048, type: 3}
+  UsedAbility: {fileID: 114570321072034362, guid: 7acdec1ee7756c546a1e66bd307e4a25,
+    type: 2}
+  Damage: 50
+  Cooldown: 0.6
+  EnergyUsage: 0
+  EnergyRecovery: 10
+  RootedTime: 0.6
+  ChannelAbility: 0
+  MultipartAbility: 1
+  DroppedAbility: 0
+  AtMouse: 0
+  PlayerAnimationTrigger: SwordAttack
+  Tooltip: 

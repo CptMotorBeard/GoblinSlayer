@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe017084953a3845aec97c7374b8cfc, type: 3}
+  m_Name: Paladin
+  m_EditorClassIdentifier: 
+  MaximumHealth: 200
+  DamageReduction: 0
+  DamageResistance: 0
+  LifePerKill: 10
+  LifePerSecond: 0
+  CrowdControlReduction: 0
+  MaxCrowdControlReduction: 40
+  BaseDamage: 50
+  CritDamage: 200
+  CritChance: 10
+  MaximumEnergy: 100
+  EnergyPerSecond: 0
+  CooldownReduction: 0
+  MaximumCooldownReduction: 0
+  SkillCostReduction: 0
+  MaximumSkillCostReduction: 40
+  MoveSpeed: 3
+  DamageReflection: 0
+  CurrentExperience: 0
+  Level: 1
+  MaximumLevel: 99
